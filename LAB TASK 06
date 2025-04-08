@@ -1,0 +1,7 @@
+1) tar -czf myarchive.tar.gz myfolder
+2) tar cvf archive_name.tar abc def
+3i)tar cvzf archive_name.tar.gz abc/
+ii) tar cvfj archive_name.tar.bz2 abc/
+4)tar xvf archive_name.tar
+5i) tar xvzf archive_name.tar.gz
+5ii)tar xvjf archive_name.tar.bz2
